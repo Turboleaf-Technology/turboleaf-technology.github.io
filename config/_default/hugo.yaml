@@ -1,0 +1,10 @@
+baseURL: https://turboleaf-technology.github.io/
+defaultContentLanguage: de
+languageCode: de
+markup:
+  highlight:
+    style: github-dark
+    tabWidth: 2
+timeZone: Europe/Berlin
+title: Turboleaf Technology
+uglyURLs: false

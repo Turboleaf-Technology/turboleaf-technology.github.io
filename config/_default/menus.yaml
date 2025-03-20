@@ -1,0 +1,17 @@
+sidebar:
+  - identifier: home
+    name: Home
+    pageRef: /
+    weight: 10
+  - identifier: projekt
+    name: Projekt
+    pageRef: /projekt
+    weight: 20
+  - identifier: team
+    name: Team
+    pageRef: /team
+    weight: 30
+  - identifier: github
+    name: GitHub
+    url: "https://github.com/Turboleaf-Technology"
+    weight: 40

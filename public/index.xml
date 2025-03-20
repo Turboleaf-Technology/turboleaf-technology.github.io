@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turboleaf Technology</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Turboleaf Technology</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projekt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekt/</guid>
+      <description>&lt;h1 id=&#34;projekt&#34;&gt;Projekt&lt;/h1&gt;&#xA;&lt;h2 id=&#34;projektablaufplan&#34;&gt;Projektablaufplan&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fabian (Projektleitung)&lt;/li&gt;&#xA;&lt;li&gt;Dariusz (Technischer Assistent und Recherche)&lt;/li&gt;&#xA;&lt;li&gt;Robin (Modellierung und Design)&lt;/li&gt;&#xA;&lt;li&gt;Robert (Tests)&lt;/li&gt;&#xA;&lt;li&gt;Sebastian (Implementierung)&lt;/li&gt;&#xA;&lt;li&gt;Matti (Qualitätssicherung und Dokumentation)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
