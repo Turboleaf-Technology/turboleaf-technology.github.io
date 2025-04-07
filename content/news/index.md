@@ -4,6 +4,20 @@ Description: ""
 
 # News
 
+## Statusbericht KW14
+Im bisherigen Verlauf des Projekts konnten bereits wichtige Meilensteine erreicht werden, die die Basis für die weiteren Entwicklungsschritte bilden. Im Rahmen der Dokumentation wurde ein umfassendes Dokumentationskonzept erarbeitet. Dieses legt sowohl die Struktur als auch die inhaltlichen Anforderungen für technische und fachliche Dokumente fest. Ziel war es, eine konsistente und nachvollziehbare Dokumentation über alle Projektphasen hinweg sicherzustellen.
+
+Parallel dazu wurde mit der Recherche für das Testkonzept begonnen. Erste Ansätze zur Teststrategie wurden gesammelt, darunter insbesondere die Auswahl geeigneter Testmethoden für Unit-, Integrations- und Systemtests. Die finale Ausarbeitung des Testkonzepts steht noch aus, wird jedoch auf den bisherigen Erkenntnissen aufbauen.
+
+Ein weiterer zentraler Schritt war die Entwicklung einer Designstudie, welche die
+Benutzeroberfläche des geplanten Systems in mehreren Varianten visualisiert. Die Rückmeldungen aus internen Reviewrunden flossen in die finale Auswahl des Designs ein, das nun als Grundlage für die Prototyp-Entwicklung dient.
+
+Im Hinblick auf die fachlichen Anforderungen wurde ein vollständiges Lastenheft erstellt. Dieses dokumentiert die funktionalen und nicht-funktionalen Anforderungen aus Sicht des Auftraggebers und stellt damit ein zentrales Referenzdokument für die weitere Planung und Umsetzung dar. 
+
+Basierend auf dem gewählten Design und den Anforderungen des Lastenhefts wurde ein erster Prototyp mit Figma entworfen und anschließend als klickbare Version umgesetzt. Dieser erlaubt es, zentrale Funktionen des Systems zu demonstrieren und dient gleichzeitig als Diskussionsgrundlage für weitere Iterationen.
+
+Insgesamt befindet sich das Projekt im Zeitplan. Die bisher erreichten Ergebnisse schaffen eine solide Grundlage für die nächste Phase – insbesondere für die Ausarbeitung des Feinkonzepts und den Beginn der technischen Implementierung.
+
 ## Statusbericht KW13
 Am Montag, dem 24. März, fand ein Planungsmeeting des Teams statt. Auf der Agenda standen die allgemeine Aufteilung der Aufgabenpakete, die Zuweisung von Ressourcen für die Konkurrenzrecherche sowie die Abstimmung zur Technologieleitlinie (TLL). Für den Folgetag wurden die Ausarbeitung der Rechercheberichte sowie die Auseinandersetzung mit React und Angular terminiert.
 

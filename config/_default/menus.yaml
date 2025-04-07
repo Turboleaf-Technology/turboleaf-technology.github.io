@@ -7,19 +7,23 @@ sidebar:
     name: Projekt
     pageRef: /projekt
     weight: 20
+  - identifier: demo
+    name: Demo
+    pageRef: /demo
+    weight: 30
   - identifier: team
     name: Team
     pageRef: /team
-    weight: 30
+    weight: 40
   - identifier: news
     name: News
     pageRef: /news
-    weight: 40
+    weight: 50
   - identifier: github
     name: GitHub
     url: "https://github.com/Turboleaf-Technology"
-    weight: 50
+    weight: 60
   - identifier: impressum
     name: Impressum
     pageRef: /impressum
-    weight: 60
+    weight: 70
