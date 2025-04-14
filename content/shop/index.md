@@ -3,10 +3,10 @@ Description: ""
 Title: "Shop"
 ---
 
-![Polo Shirt "Turboleaf"](turboleaf-polo-shirt.jpg "{height='100'}")
+![Polo Shirt "Turboleaf"](turboleaf-polo-shirt.jpg)
 _Polo-Shirt "Turboleaf"_
 
-![Tasse "Turboleaf" - Founders Edition](turboleaf-tasse.jpg?height=100px)
+![Tasse "Turboleaf" - Founders Edition](turboleaf-tasse.jpg)
 _Tasse "Turboleaf"_
 
 -----

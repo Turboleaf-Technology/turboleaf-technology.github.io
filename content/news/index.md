@@ -3,7 +3,16 @@ Description: ""
 Title: "News"
 ---
 
-# News
+## Statusbericht KW15
+In der Kalenderwoche 15 hat das Projektteam zentrale Fortschritte im Hinblick auf die anstehende Deﬁnitions- und Entwurfsphase erzielt. Ein erster Designentwurf wurde in Angriff genommen. Dabei wurden grundlegende Architekturentscheidungen dokumentiert und erste Entwurfsartefakte wie Diagramme und Beschreibungstexte erarbeitet.
+
+Parallel wurde das Testkonzept weiter ausgebaut. Es beinhaltet nun konkrete Ansätze für Unit- und Systemtests sowie organisatorische Maßnahmen zur Testdurchführung und -dokumentation. Der ﬁnale Entwurf wird derzeit vorbereitet.
+
+Ein bedeutender Meilenstein war das erste Review, das erfolgreich durchgeführt wurde. Die Rückmeldungen daraus ﬂießen nun in die nächsten Arbeitsschritte ein. Zusätzlich wurde das vollständige Pﬂichtenheft erstellt, das die funktionalen und nicht-funktionalen Anforderungen detailliert spezifiziert.
+
+Abschließend erfolgte die Festlegung des Tech-Stacks: React / Next.js für das Frontend sowie ASP.NET Core für das Backend. Dieser Technologieentscheid bildet die Basis für die bevorstehende Implementierungsphase.
+
+Das Projektteam arbeitet weiterhin im Zeitplan und gut strukturiert auf das zweite Review hin.
 
 ## Statusbericht KW14
 Im bisherigen Verlauf des Projekts konnten bereits wichtige Meilensteine erreicht werden, die die Basis für die weiteren Entwicklungsschritte bilden. Im Rahmen der Dokumentation wurde ein umfassendes Dokumentationskonzept erarbeitet. Dieses legt sowohl die Struktur als auch die inhaltlichen Anforderungen für technische und fachliche Dokumente fest. Ziel war es, eine konsistente und nachvollziehbare Dokumentation über alle Projektphasen hinweg sicherzustellen.

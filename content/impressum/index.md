@@ -3,8 +3,6 @@ Description: ""
 Title: "Impressum"
 ---
 
-# Impressum
-
 Diese Website ist ein Projekt der DHBW Horb und dient ausschließlich akademischen Zwecken. Die hier dargestellte Firma "Turboleaf Technology" und alle damit verbundenen Produkte und Dienstleistungen sind fiktiv.
 
 ## Universitätsadresse
