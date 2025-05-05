@@ -22,6 +22,7 @@ Title: "Projekt"
 - [Projektablaufplan KW15](/documents/turboleaf-projektablaufplan-kw15.pdf)
 - [Projektablaufplan KW16](/documents/turboleaf-projektablaufplan-kw16.pdf)
 - [Projektablaufplan KW17](/documents/turboleaf-projektablaufplan-kw17.pdf)
+- [Projektablaufplan KW18](/documents/turboleaf-projektablaufplan-kw18.pdf)
 
 ## Statusbericht
 
@@ -31,6 +32,7 @@ Title: "Projekt"
 - [Statusbericht KW15](/documents/turboleaf-statusbericht-kw15.pdf)
 - [Statusbericht KW16](/documents/turboleaf-statusbericht-kw16.pdf)
 - [Statusbericht KW17](/documents/turboleaf-statusbericht-kw17.pdf)
+- [Statusbericht KW18](/documents/turboleaf-statusbericht-kw18.pdf)
 
 ## Entwicklung
 
